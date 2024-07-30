@@ -7,3 +7,4 @@ torchvision==0.18.1
 ultralytics==8.2.54
 matplotlib
 numpy
+opencv-python
